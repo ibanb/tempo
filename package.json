@@ -1,0 +1,23 @@
+{
+  "name": "tempo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ibanb/tempo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibanb/tempo/issues"
+  },
+  "homepage": "https://github.com/ibanb/tempo#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
